@@ -1,4 +1,3 @@
-# Lab2-JS-frameworks
 # Lab 2 - JavaScript Frameworks: Node.js & Modules
 
 This project demonstrates the use of **Node.js** with custom modules. It includes the creation of two JavaScript files to work on the server-side and implement basic functions.
